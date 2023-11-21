@@ -1,0 +1,6 @@
+#pragma once
+#include <vector>
+#include <iostream>
+#include <fstream>
+
+void PrintVector(const std::vector<int>& vectorToPrint);
